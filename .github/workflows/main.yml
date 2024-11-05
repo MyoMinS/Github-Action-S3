@@ -1,4 +1,4 @@
-main: Create s3 Bucket
+name: Create s3 Bucket
 on: 
   workflow_dispatch:
     inputs:
